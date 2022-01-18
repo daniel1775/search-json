@@ -1,0 +1,26 @@
+.search-box__title{
+   text-align: center;
+}
+
+.search-box__buttons{
+   display: flex;
+   justify-content: center;
+}
+
+.search-box__label{
+   margin-right: 10px;  
+}
+
+.search-box__button{
+   margin-left: 5px;
+}
+
+/*Opctional */
+.search-box__button--hide{
+   display: none;
+}
+
+/*Opctional */
+.search-box__button--show{
+   display: block;
+}
